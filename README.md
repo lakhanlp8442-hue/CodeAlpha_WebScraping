@@ -16,3 +16,4 @@ This project is completed as part of the CodeAlpha Data Analytics Internship. It
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+ 
